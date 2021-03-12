@@ -1,0 +1,13 @@
+Chapter 2 -------------------------------
+
+Data types:
+                                      
+    short int             2 bytes     -32,768 to 32,767                 2^15 - 1
+    unsigned short int    2 bytes      0 to 65,535                      2^16 - 1
+    int                   4 bytes     -2,147,483,648 to 2,147,483,647   2^31 - 1
+    unsigned int          4 bytes      0 to 4,294,967,295               2^32 - 1
+    long int              4 bytes     -2,147,483,648 to 2,147,483,647   2^31 - 1
+    unsigned long int     4 bytes      0 to 4,294,967,295               2^32 - 1
+    long long int         8 bytes     -9,233,372,036,852,755,808 to  
+                                       9,233,372,036,852,755,807        2^63 - 1
+    u long long int       8 bytes      0 to 18,446,744,073,709,551,615  2^64 - 1
